@@ -61,3 +61,8 @@ what we have usually used within SSA Vic:
 
     INPUT=raw/zoom_1.mp4
     OUTPUT=output/ssavic_$TAG
+
+
+## Licence
+
+See the [LICENSE](LICENSE.txt) file for license rights and limitations (MIT).
